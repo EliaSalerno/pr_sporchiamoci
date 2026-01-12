@@ -1,0 +1,6 @@
+Presentazione attività in un foglio: formattare la macchina, e configurare un nuovo ambiente di sviluppo da zero.
+
+1. ISO: Alpine (lite-solo terminale)
+2. Provare ad entrare nel bios (uefi)
+3. installare nuovo so
+4. configurare anaconda o docker
